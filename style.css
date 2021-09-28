@@ -1,0 +1,28 @@
+body{
+    font-family: Arial;
+    background: whitesmoke;
+}
+div#corpo{
+    align-items: center;
+    background-color: rgb(196, 238, 231);
+    width: 600px;
+    height: 300px;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 32%;
+    padding:20px ;
+    border: olivedrab solid 3px;
+    box-shadow: slategray 5px;
+
+    
+}
+div#resultado{
+    font-size: large;
+    background-color: rgb(114, 167, 35);
+    width: 495px;
+    height: 80px;
+    padding: 5px;
+    margin: 8px;
+    text-align: center;
+   
+}
